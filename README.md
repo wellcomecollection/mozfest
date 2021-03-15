@@ -4,4 +4,4 @@ This repo contains some examples to get you started with [Wellcome Collection's 
 
 ## Getting started with python
 
-Try running our notebooks in [google colab](), or have a look at the [README](python/) to run the notebooks locally using docker.
+Try running our notebooks in [google colab](https://colab.research.google.com/github/wellcomecollection/mozfest/blob/master/python/notebooks), or have a look at the [README](python/) to run the notebooks locally using docker.
