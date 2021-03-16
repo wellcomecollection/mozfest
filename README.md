@@ -4,7 +4,7 @@ This repo contains some examples to get you started with [Wellcome Collection's 
 
 ## Getting started with python
 
-Try running our notebooks in [google colab](https://colab.research.google.com/github/wellcomecollection/mozfest/blob/main/python/notebooks), or have a look at the [README](python/) to run the notebooks locally using docker.
+Try running our notebooks in [google colab](https://colab.research.google.com/github/wellcomecollection/mozfest/blob/main/python/notebooks/01%20-%20open%20an%20image.ipynb), or have a look at the [README](python/) to run the notebooks locally using docker.
 
 ## Getting started with Observable and JavaScript
 
