@@ -1,6 +1,6 @@
 # Mozfest
 
-This repo contains some examples to get you started with [Wellcome Collection's images API](https://api.wellcomecollection.org/catalogue/v2/images). The repo was created specifically for [one of our sessions at mozfest 2021](https://schedule.mozillafestival.org/session/93CJ7Y-1), but should be usable by anyone!
+This repo contains some examples to get you started with [Wellcome Collection's images API](https://api.wellcomecollection.org/catalogue/v2/images). You can read more about it in [our developer docs](https://developers.wellcomecollection.org/catalogue/v2/images). The repo was created specifically for [one of our sessions at mozfest 2021](https://schedule.mozillafestival.org/session/93CJ7Y-1), but should be usable by anyone!
 
 ## Getting started with python
 
