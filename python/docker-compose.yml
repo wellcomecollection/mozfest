@@ -1,0 +1,11 @@
+version: "3"
+services:
+  notebooks:
+    build: .
+    ports:
+      - 8888:8888
+    volumes:
+      - $PWD/notebooks:/home/jovyan/work
+
+volumes:
+  notebooks:
